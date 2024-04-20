@@ -3,8 +3,8 @@ import React from 'react'
 export default function About() {
   return (
     <div className="about">
-    Full-Stack Engineer with experience in web and app development and technical troubleshooting. 
-    Analytical, thorough, focused and diligent problem solver.
+    A DevOps Engineer with 2 years of experience of working in software development, technical troubleshooting and workflow automation at Macquarie. 
+    I can contribute to your team with my extensive knowledge in cloud deployments, networking, and software development.
     </div>
   )
 }
